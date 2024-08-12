@@ -1,1 +1,10 @@
+#box1, #box3, #box5 {
+    background-color: #b433ff; /* purple */
+}
+#box2, #box4, #box6 {
+    background-color: #80354a; /* burgundy */
+}
+.col-sm-4 {
+    height: 100px; /* 100 */
+}
 
